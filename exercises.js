@@ -2,12 +2,12 @@
 
 function multiplyByTen(num) {
   // return num after multiplying it by ten
-  return(num) * 10
+  return(num) * 10;
 }
 
 function subtractFive(num) {
   // return num after subtracting five
-  return(num) - 5
+  return(num) - 5;
 }
 
 function areSameLength(str1, str2) {
@@ -36,22 +36,22 @@ function greaterThanFifty(num) {
 
 function add(x, y) {
   // add x and y together and return the value
-  // code here
+  return(x + y);
 }
 
 function subtract(x, y) {
   // subtract y from x and return the value
-  // code here
+  return(x - y);
 }
 
 function divide(x, y) {
   // divide x by y and return the value
-  // code here
+  return(x / y);
 }
 
 function multiply(x, y) {
   // multiply x by y and return the value
-  // code here
+  return(x * y)}
 }
 
 function getRemainder(x, y) {
